@@ -1,0 +1,21 @@
+#input Data Lengakap
+nama = input("Nama: ")
+nim = input("NIM: ")
+ttl = input("TTL: ")
+alamat = input("Alamat: ")
+nohp = input("No HP: ")
+program = input("Program Studi: ")
+hobi = input("Hobi: ")
+
+# biodata = "Halo! Nama:{} NIM:{} TTL:{} \nAlamat:{} No HP:{} Program Studi:{} Hobi:{}"
+# print(biodata.format(nama, nim, ttl, alamat, nohp, program, hobi))
+print("--------------------------------")
+print("Biodata Diri")
+print("--------------------------------")
+print("Nama: " + nama)
+print("NIM: " + nim)
+print("TTL: " + ttl)
+print("Alamat: " + alamat)
+print("No HP: " + nohp)
+print("Program Studi: " + program)
+print("Hobi: " + hobi)
