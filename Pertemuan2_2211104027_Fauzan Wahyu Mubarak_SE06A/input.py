@@ -9,4 +9,3 @@ panjang = int(input("panjang: "))
 lebar = int(input("Lebar: "))
 luas = panjang * lebar
 print("Luas Persegi Panjang: " , luas)
-print("Selesai")
